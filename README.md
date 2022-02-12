@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryangyan
-- 👀 I’m woring in Tencent
-- 🌱 I’m currently learning Python
+- 👀 I’m woring in Autowise
+- 🌱 I’m currently learning C++, Python
 - 💞️ I’m looking to ...
 - 📫 How to reach me E-mail: yanganoffice@foxmail.com
 
