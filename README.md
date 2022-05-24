@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ryangyan
-- 👀 I’m woring in Autowise
+- 👀 I’m woring in Momenta
 - 🌱 I’m currently learning C++, Python
-- 💞️ I’m looking to ...
 - 📫 How to reach me E-mail: yanganoffice@foxmail.com
 
 <!---
