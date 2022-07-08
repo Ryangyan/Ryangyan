@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ryangyan
+- 👋 Hi, I’m @Ryan
 - 👀 I’m woring in Momenta
-- 🌱 I’m currently learning C++, Python
+- 🌱 I’m currently learning C++, Python, ROS
 - 📫 How to reach me E-mail: yanganoffice@foxmail.com
 
 <!---
