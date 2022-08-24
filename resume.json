@@ -4,107 +4,92 @@
     "hidden": false
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736****86@qq.com",
-    "mobile": "156********",
-    "github": "https://github.com/visiky",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": "",
-    "positionTitle": "数据可视化·前端工程师"
+    "name": "叶凌霄",
+    "email": "1143590662@qq.com",
+    "mobile": "17366633097",
+    "positionTitle": "游戏美术/UI设计"
   },
   "educationList": [
     {
-      "edu_time": ["2014.09.01", "2018.06.30"],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "edu_time": ["2019.09.01", "2023.06.30"],
+      "school": "浙江理工大学",
+      "major": "数字媒体艺术",
       "academic_degree": "本科"
     }
   ],
   "awardList": [
     {
-      "award_info": "英语 CET6",
-      "award_time": "2015"
+      "award_info": "腾讯游戏学堂Mini Game金奖",
+      "award_time": "2021.12"
     },
     {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
-      "award_time": "2018.09"
-    },
-    {
-      "award_info": "前端练习生 可视化讲师",
-      "award_time": "2020.10"
-    },
-    {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-      "award_time": "2021.07"
+      "award_info": "浙江省乡村振兴创意大赛金奖",
+      "award_time": "2021.11"
     }
   ],
   "workExpList": [
     {
-      "company_name": "蚂蚁集团",
-      "department_name": "体验技术部",
-      "work_time": ["2018.06", null],
-      "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
+      "company_name": "杭州幻书科技有限公司",
+      "department_name": "游戏美术设计师",
+      "work_time": ["2022.04", null],
+      "work_desc": "负责公司Roblox平台和迷你世界平台游戏的界面设计\r\n负责公司面向国内和海外的创意游戏制作\r\n参与游戏产品从立项到开发、上线的全过程"
     },
     {
-      "company_name": "蚂蚁金服",
-      "department_name": "大数据部",
-      "work_time": ["2017.06", "2017.12"],
-      "work_desc": "前端实习生。使用 React 参与开发多类产品：数据研发平台、数据决策平台、数据分析平台的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
-    },
-    {
-      "company_name": "数沃信息科技有限公司",
-      "department_name": "",
-      "work_time": ["2017.03", "2017.05"],
-      "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
+      "company_name": "杭州麦扑文化创意有限公司",
+      "department_name": "美术设计",
+      "work_time": ["2021.04", "2021.07"],
+      "work_desc": "参与校企合作实习项目\r\n负责红色旅游手绘地图设计"
     }
   ],
   "skillList": [
     {
-      "skill_name": "HTML 和 CSS",
-      "skill_desc": "",
-      "skill_level": 89
+      "skill_name": "游戏角色与动作设计",
+      "skill_desc": "专业课程学习与丰富的项目实践经验",
+      "skill_level": 100
     },
     {
-      "skill_name": "TypeScript / JavaScript",
-      "skill_desc": "熟悉 TypeScript，丰富的 ts 项目经验",
+      "skill_name": "交互界面/UI设计",
+      "skill_desc": "Roblox项目开发经验",
       "skill_level": 90
     },
     {
-      "skill_name": "数据可视化",
-      "skill_desc": "丰富的可视化工程实践以及开源经验",
+      "skill_name": "交互引擎/Unity应用",
+      "skill_desc": "多个独立游戏开发项目",
       "skill_level": 90
-    },
-    {
-      "skill_name": "React / 前端工程化",
-      "skill_desc": "大型前端项目经验以及组件库开发经验",
-      "skill_level": 85
     }
   ],
   "projectList": [
     {
-      "project_name": "数据作战室",
-      "project_role": "前端负责人",
-      "project_time": "2019.04 - 2020.06",
-      "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。",
-      "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+      "project_name": "GGJ2022独立游戏开发",
+      "project_role": "游戏美术",
+      "project_time": "2022.01 - 2020.01",
+      "project_desc": "在48小时内极限开发一款独立游戏",
+      "project_content": "合作开发了一款强节奏的2.5D像素风双人对抗游戏\r\n主要负责游戏策划，场景设计，角色设计与动效设计\r\nhttps://www.gmhub.com/game/552"
     },
     {
-      "project_name": "DeepInsight",
-      "project_role": "可视分析负责人",
-      "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
-      "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。",
-      "project_content": "BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设"
+      "project_name": "腾讯游戏学堂Mini Game金奖",
+      "project_role": "游戏美术",
+      "project_time": "2021.09 - 2021.12",
+      "project_desc": "腾讯举办的从0到1入门游戏策划制作的课程与实践\r\n最终需要完成一款独立游戏作为结业项目",
+      "project_content": "合作开发了一款Roguelike横板战斗游戏\r\n主要负责游戏策划，场景设计，道具设计\r\nhttps://gameinstitute.qq.com/minigame/10137"
     },
     {
-      "project_name": "G2、G2Plot",
-      "project_role": "核心开发者",
-      "project_time": "2019 - 至今",
-      "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
-      "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。"
+      "project_name": "第四届浙江省大学生乡村振兴创意大赛金奖",
+      "project_role": "产品设计",
+      "project_time": "2021.09 - 2021.11",
+      "project_desc": "帮助杭州塘埠村开发当地特产和特色旅游资源，进行包装和对外宣传，促进其完成乡村振兴",
+      "project_content": "产品设计：包括盲盒设计，特产包装设计\r\n旅游线路设计：包括路标、路牌等导视设计和旅游大巴的设计"
+    },
+    {
+      "project_name": "亚组委“手绘亚运场馆”项目",
+      "project_role": "美术设计",
+      "project_time": "2021.08 - 2021.09",
+      "project_desc": "亚组委面向社会征集亚运场馆手绘图",
+      "project_content": "绘制了杭州奥体中心体育场和温州龙舟中心宣传图，并被官方选用\r\n"
     }
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "🌱 Focus on data visualization and analysis\n😈 能力项：沟通协调能力、执行力\n自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n参与 AntV 团队开源项目 G2、G2Plot 的研发，目前是 G2Plot 的主要负责人。"
+    "aboutme_desc": "🌱 在游戏世界中创造美好\n😈 聪明，勇敢，有力气\n熟悉游戏设计流程，在校内对原画设计、游戏建模、动作设计、游戏策划有系统的学习，且项目经验丰富。\n有摄影、UI 设计、平面设计能力。善于沟通与表达，反应速度快，头脑灵活，有强烈的上进心和责任感。"
   }
 }
